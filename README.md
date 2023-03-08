@@ -22,6 +22,5 @@ Hi there, I'm Enes 👋<br><br>👩🏼‍🎓 I'm student from Sakarya Universi
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=enesgumus&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
