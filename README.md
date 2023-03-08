@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there, I'm Enes 👋<br><br>👩🏼‍🎓 I'm student from Sakarya University Management Information System<br>🌱 I’m currently learning Swift<br>🔭 Skills: C#,SQL<br>📫 How to reach me: gumussenes@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=enesgumus&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enes-gumus/) 
