@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Enes 👋<br><br>🏼‍🎓 I'm student from Sakarya University Management Information System<br>🌱 I’m currently learning Swift<br>🔭 Skills: C#,SQL<br>📫 How to reach me: gumussenes@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=enesgumus&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
