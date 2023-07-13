@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Enes<br>I'm student from Sakarya University Management Information System<br>I’m currently learning Swift<br>🔭 Skills: C#,SQL<br>How to reach me: gumussenes@gmail.com
+Hi there, I'm Enes<br>•I'm student from Sakarya University Management Information System<br>•I’m currently learning Swift<br>•Skills: C#,SQL<br>•How to reach me: gumussenes@gmail.com
 
 
 # 💻 Tech Stack:
