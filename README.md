@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [bento.me/enesgumus](bento.me/enesgumus)
-
 - 📫 How to reach me **gumus.enes1247@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
