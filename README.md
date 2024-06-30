@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">iOS Developer</h3>
 
-- 🌱 I’m currently learning **Swift & React Native**
+- 🌱 I’m currently learning **Swift & SwiftUI**
 
 - 📫 How to reach me **gumus.enes1247@gmail.com**
 
